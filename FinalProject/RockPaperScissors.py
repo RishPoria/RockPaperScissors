@@ -19,7 +19,7 @@ def main():
     cap.set(3, wCam)
     cap.set(4, hCam)
 
-    folderPath = "D://Python Programs/Game Images"
+    folderPath = "GameImages"
     myList = os.listdir(folderPath)
     overlayList = []
     for imPath in myList:
