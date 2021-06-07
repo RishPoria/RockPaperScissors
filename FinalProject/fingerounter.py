@@ -32,7 +32,7 @@ def main():
     cap.set(3, wCam)
     cap.set(4, hCam)
 
-    folderPath = "D://Python Programs/Finger Images"
+    folderPath = "FingerImages"
     myList = os.listdir(folderPath)
     # print(myList)
     overlayList = []
