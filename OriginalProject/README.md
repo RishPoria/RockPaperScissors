@@ -20,7 +20,7 @@ Mediapipe was developed by Google and it has various models which help us to sol
 - Object Detection
 
 The Hand Tracking model uses two modules at the backend:
-1. Palm Detection - Takes a complete image and returns a [cropped image]() which contains the palm.
+1. Palm Detection - Takes a complete image and returns a [cropped image](https://github.com/RishPoria/RockPaperScissors/blob/main/OriginalProject/CroppedImage.jpg) which contains the palm.
 2. Hand Landmark - Takes the cropped image and returns [21 landmarks](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png) 
 
 
