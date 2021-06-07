@@ -16,7 +16,7 @@ Python 2 or 3 along with cv2 and mediapipe must be present in the system.
 
 ## Working of RockPaperScissors.py
 - Predefined modules - cv2, time, os, random 
-- User defineds modules - HandTrackerModule as htm, fingercounter as fc  
+- User defined modules - HandTrackerModule as htm, fingercounter as fc  
 
 1. Webcam window with the name "Rock Paper Scissors" is started and two boxes are drawn - left for user and right for computer.
 2. FPS counter is constantly running in the bottom left corner of webcam window.
