@@ -37,5 +37,5 @@ OpenCV is open source and is free for commercial use. It is a cross-platform lib
 
 ## Source code: 
 - [CVZONE](https://www.computervision.zone/)
-- [Hand Tracking Module]()
-- [Finger Counter]()
+- [Hand Tracking Module](https://github.com/RishPoria/RockPaperScissors/blob/main/OriginalProject/HandTrackingModule.py)
+- [Finger Counter](https://github.com/RishPoria/RockPaperScissors/blob/main/OriginalProject/FingerCounter.py)
