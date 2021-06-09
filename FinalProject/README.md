@@ -30,3 +30,8 @@ Python 2 or 3 along with cv2 and mediapipe must be present in the system.
 10. The result is shown in top portion of the window.
 11. Most of the text is centre aligned using alignText function that takes necessary arguments to calculate the position of x-coordinate (from where to start printing).
 12. Window can be exited by either stopping the program or pressing 'q' or 'Q' (keyboard interrupt).
+
+## Screenshots:
+
+<img src="https://github.com/RishPoria/RockPaperScissors/blob/main/FinalProject/Output/ComputerWins.jpg" width="310"/>  <img src="https://github.com/RishPoria/RockPaperScissors/blob/main/FinalProject/Output/YouWin.jpg" width="310"/>  <img src="https://github.com/RishPoria/RockPaperScissors/blob/main/FinalProject/Output/ItsATie.jpg" width="310"/> 
+
